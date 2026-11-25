@@ -1,8 +1,8 @@
 # One Line, One Week: The make.fun Tagline
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
-[![make.fun leaderboard](https://img.shields.io/badge/make.fun-leaderboard-7c3aed)](https://make.fun/api/competitions/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/leaderboard)
-[![make.fun kit](https://img.shields.io/badge/make.fun-kit-7c3aed)](https://make.fun/c/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/kit)
+[![make.fun · u-boge-one-line-one-week-the-make-fun-tagline-66aca584](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![rank](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/Bradestudio/Bradestudio-u-boge-one-line-one-week-the-make-fun-tagline-66aca584/rank.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
+[![reward](https://make.fun/badge/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/Bradestudio/Bradestudio-u-boge-one-line-one-week-the-make-fun-tagline-66aca584/reward.svg)](https://make.fun/bounty/u-boge-one-line-one-week-the-make-fun-tagline-66aca584?utm_source=github&utm_medium=readme&utm_campaign=u-boge-one-line-one-week-the-make-fun-tagline-66aca584)
 
 Entry for the make.fun bounty **"One Line, One Week: The make.fun Tagline"**
 ($3, top 10 paid). The program writes one line — at most 100 characters —
